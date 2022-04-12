@@ -1,6 +1,6 @@
 {
   "name": "newgqls4",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
   "devDependencies": {
     "rollup": "^2.70.1"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahakshtrivediMT/GraphqlSchemaStitching"
+  }
 }
