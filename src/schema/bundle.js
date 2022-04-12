@@ -16,7 +16,7 @@ const studentType = gql `
     }
 `;
 
-const typeDefsArray = [queryType,courseType, studentType];
+const typeDefsArray = [queryType, studentType];
 const typeDefs = mergeTypeDefs(typeDefsArray);
 
 export { typeDefs };
